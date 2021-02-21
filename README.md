@@ -12,4 +12,4 @@ Some things about me:
 - 🌱 I’m currently learning: about Networks.
 - 👯 I’m looking to collaborate on: python and machine learning projects.
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=its-kos=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=its-kos&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
