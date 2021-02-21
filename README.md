@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**its-kos/its-kos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Welcome To My Profile</h1>
+<h3 align="center">Be sure to follow me and star any projects that you might like ⭐</h3>
 
-Here are some ideas to get you started:
+My name is Konstantinos and this is my Github Profile. This is where I upload all my projects, along with other things i find interesting enough.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some things about me:
+
+- 💙 I love: Machine learning, Data science, Network security.
+- 🔭 I’m currently working on: my university degree.
+- 🌱 I’m currently learning: about Networks.
+- 👯 I’m looking to collaborate on: python and machine learning projects.
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=its-kos=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
