@@ -1,4 +1,4 @@
-### Hi there 👋
+##
 
 <h1 align="center">Welcome To My Profile</h1>
 <h3 align="center">Be sure to follow me and star any projects that you might like ⭐</h3>
@@ -9,7 +9,7 @@ Some things about me:
 
 - 💙 I love: Machine learning, Data science, Network security.
 - 🔭 I’m currently working on: my university degree.
-- 🌱 I’m currently learning: about Networks.
-- 👯 I’m looking to collaborate on: python and machine learning projects.
+- ⭐ I’m currently learning: about Networks.
+- 😃 I’m looking to collaborate on: python and machine learning projects.
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=its-kos&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
