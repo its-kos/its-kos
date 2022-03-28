@@ -1,5 +1,5 @@
 ##
-
+[![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/konstantinos-katserelis/)
 <h1 align="center">Welcome To My Profile</h1>
 <h3 align="center">Be sure to follow me and star any projects that you might like ⭐</h3>
 
