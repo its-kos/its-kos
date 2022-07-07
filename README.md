@@ -1,6 +1,7 @@
 ##
 [![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/konstantinos-katserelis/)
 [![Kaggle Badge](https://img.shields.io/badge/kaggle-blue)](https://www.kaggle.com/pointblanc)
+[![Twitter Badge](https://img.shields.io/badge/twitter-blue)](https://twitter.com/gravityWwell)
 
 <h1 align="center">Welcome To My Profile</h1>
 <h3 align="center">Be sure to follow me and star any projects that you might like ⭐</h3>
