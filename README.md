@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Konstantinos, a computer science student and an AI enthusiast 🚀</div>  
+### <div align="center">I'm Konstantinos, a computer science graduate and a Cloud / Distributed systems enthusiast 🚀</div>  
   
 
-- ✏️ Currently working on my BSc thesis on "Recipe generation using deep learning".  
+- ✏️ Currently working on a C++ Image Filtering project.  
   
 
-- 🌱 I'm  currently learning about Computer Vision and Simulations.  
+- 🌱 I'm currently learning about Simulations, Distributed systems and Go.  
   
 
-- 👀 Interested in collaborating in C++ / Python projects.  
+- 👀 Interested in collaborating in Cloud / C++ / Go projects.  
   
 
 <br/>  
@@ -30,7 +30,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -44,7 +44,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="go" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
