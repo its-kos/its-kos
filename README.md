@@ -3,22 +3,22 @@
 </div>  
   
 
-### <div align="center">I'm Konstantinos, a computer science graduate and a Cloud / Distributed systems enthusiast 🚀</div>  
+### <div align="center">I'm Konstantinos, a computer science graduate and a Cloud / Distributed systems enthusiast</div>  
   
 
-- ✏️ Currently working on a C++ Image Filtering project.  
+- Currently working on a C++ Image Filtering project.  
   
 
-- 🌱 I'm currently learning about Simulations, Distributed systems and Go.  
+- I'm currently learning about Simulations, Distributed systems and Go.  
   
 
-- 👀 Interested in collaborating in Cloud / C++ / Go projects.  
+- Interested in collaborating in Cloud / C++ / Go projects.  
   
 
 <br/>  
 
 
-## My Skill Set  
+## Skills
 <table><tr><td valign="top" width="33%">
 
 
