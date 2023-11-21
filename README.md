@@ -6,13 +6,13 @@
 ### <div align="center">I'm Konstantinos, a computer science graduate and a Cloud / Distributed systems enthusiast</div>  
   
 
-- Currently working on a C++ Image Filtering project.  
+- Currently working as a Jr. Software Engineer.  
   
 
-- I'm currently learning about Simulations, Distributed systems and Go.  
+- Learning about .NET, Distributed Systems and Go.  
   
 
-- Interested in collaborating in Cloud / C++ / Go projects.  
+- Interested in collaborating in Backend / Microservice / Go projects.  
   
 
 <br/>
