@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Konstantinos, a computer science graduate and a Cloud / Distributed systems enthusiast</div>  
+### <div align="center">I'm Konstantinos, a computer science graduate and a Distributed Systems enthusiast</div>  
   
 
 - Currently working as a Jr. Software Engineer.  
