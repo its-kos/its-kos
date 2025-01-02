@@ -6,7 +6,7 @@
   <h3>🧶 Databases 🧶</h3>
    <img src="https://skillicons.dev/icons?i=mysql,postgresql">
   <h3>🏏 Tools 🏏</h3>
-    <img src="https://skillicons.dev/icons?i=docker,linux,git,nextjs">
+    <img src="https://skillicons.dev/icons?i=docker,linux,git,nextjs,vue">
   <h3>📚 Want to Learn 📚</h3>
     <img src="https://skillicons.dev/icons?i=rust">
 </div>
